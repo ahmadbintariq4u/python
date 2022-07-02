@@ -1,4 +1,4 @@
-file_loc="assets/color_text.txt"
+file_loc="projects/color_text.txt"
 f = open(file_loc, "a")
 f.write(' -------------------------------\n')
 for i in range(32,37):
